@@ -16,7 +16,7 @@ body {
   text-align: center;
   justify-content: center;
   height: 150px;
-  background: rgb(224, 190, 190);
+  background: rgb(172, 189, 221);
 }
 .inputs input[type="text"] {
   height: 4rem;
